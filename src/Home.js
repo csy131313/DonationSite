@@ -19,7 +19,7 @@ const Home = () => {
                 And like every year leading up to Rosh Hashanah, we at Tzadka's cash register work around the clock to distribute food baskets to hundreds of needy families. Our operation is our effort so that no family sits at an empty table.
                 And this year especially, due to the situation which unfortunately added many families to the circle of distress and we want to help them all.
                 Help them with a big hand! And in a happy soul!
-                And in any case, remember - not less than NIS 360!!!!!!
+                And in any case, remember - not less than NIS 450!!!!!!
             </p>
             <div id="imgDiv">
                 <img src='../image (5).png' className='imgHome'></img>
