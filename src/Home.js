@@ -15,7 +15,7 @@ const Home = () => {
             <p style={{ width: "50%", margin: "auto" }}>
                 Here they give more without tricks without segments!
                 In the coming week, when we return to the Shabbat table on an extended basis, there will be families whose table will not be full. What for us is so natural like a variety of dishes, fish, meat and fine wine - for them it is a dream. Every year it is difficult for them and this year even more so because of the cost. The prices just got worse.
-                We must take care of them!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                We must take care of them!!!
                 And like every year leading up to Rosh Hashanah, we at Tzadka's cash register work around the clock to distribute food baskets to hundreds of needy families. Our operation is our effort so that no family sits at an empty table.
                 And this year especially, due to the situation which unfortunately added many families to the circle of distress and we want to help them all.
                 Help them with a big hand! And in a happy soul!
